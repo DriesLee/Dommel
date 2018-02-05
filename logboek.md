@@ -3,8 +3,8 @@
 ## Maandag 2018-02-05
 Begintijd | Activiteit | Eindtijd
 ---       | ---        | ---
-07:30     | Gesprek met veldmedewerkers | 8:00
-08:00     | Weekplanningen maken | 9:00
+07:30     | Gesprek met veldmedewerkers | 08:00
+08:00     | Weekplanningen maken | 09:00
 09:00     | Literatuur cartografie zoeken | 10:00
 10:30     | GitHub met onderzoeksjournaal aanmaken | xx:xx
 xx:xx     | Onderzoeksplanning maken | xx:xx
